@@ -1,0 +1,37 @@
+body {
+    font-family: 'YourChosenFont', sans-serif;
+    font-size: 16px;
+  }
+  
+  header {
+    background-color: whitesmoke;
+  }
+  
+  nav {
+    background-color: whitesmoke;
+  }
+  
+  main {
+    background-color: whitesmoke;
+    font-size: 18px;
+  }
+  
+  footer {
+    background-color: whitesmoke;
+  }
+  
+  li {
+    display: inline-block;
+    width: 100px; /* Adjust as needed */
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: 'YourH1Font', sans-serif;
+    color: black;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
